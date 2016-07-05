@@ -1,0 +1,28 @@
+name: nicholas reynolds
+favicon: null
+layout_spectrum: 0.47465070174075663
+typography_spectrum: 0.9471427598036826
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8537529720924795
+  lightness: 0.2740197984967381
+  saturation: 0.7674153817351907
+  rhythmicContrast: 0.48270640010014176
+purpose: []
